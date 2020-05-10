@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1589150158 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\main.cpp
+	<iostream>
+	<graf_ls.h>
+	<graf_ms.h>
+	<kolejka_priorytetowa.h>
+	<BadaczAlgorytmu.h>
+	<ctime>
+
+1588361251 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\wierzcholek.cpp
+
+1588361769 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\wierzcholek.h
+
+1588366759 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\lista.cpp
+	"Lista.h"
+
+1589066320 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\lista.h
+	<iostream>
+
+1588364841 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\lista_sasiedztwa.cpp
+	"lista_sasiedztwa.h"
+
+1588364820 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\lista_sasiedztwa.h
+
+1589152651 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\graf_ls.cpp
+	"graf_ls.h"
+
+1589152959 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\graf_ls.h
+	<dirent.h>
+	<string>
+	<fstream>
+	<Lista.h>
+	<e_graf_ls.h>
+
+1588469047 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\krawedz.cpp
+	"krawedz.h"
+
+1588469047 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\krawedz.h
+
+1589152430 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\graf_ms.cpp
+	"graf_ms.h"
+
+1589153057 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\graf_ms.h
+	<dirent.h>
+	<string>
+	<fstream>
+	<Lista.h>
+	<e_graf_ms.h>
+
+1589152099 source:e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\src\badaczalgorytmu.cpp
+	"BadaczAlgorytmu.h"
+
+1589152127 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\badaczalgorytmu.h
+	<graf_ls.h>
+	<graf_ms.h>
+	<kolejka_priorytetowa.h>
+	<chrono>
+
+1589151875 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\kolejka_priorytetowa.h
+	<iostream>
+
+1589153138 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\e_graf_ls.h
+	<Lista.h>
+
+1589153138 e:\studia\pamsi\projekty\projekt 2 - grafy\program\grafy\include\e_graf_ms.h
+	<Lista.h>
+
